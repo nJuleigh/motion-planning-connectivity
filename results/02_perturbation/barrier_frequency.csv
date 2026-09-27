@@ -1,0 +1,5 @@
+barrier,bottleneck_edges,count,case,rate
+T → A1 → A2 → A3 → A4 → B,"T-A1, A1-A2, A2-A3",200,Stable plateau,1.0
+T → C1 → C2 → C3 → C4 → B,C2-C3,200,Near boundary,1.0
+T → C1 → C2 → C3 → C4 → B,C2-C3,104,Exact V-cusp,0.52
+T → C1 → C2 → C3 → C4 → B,C3-C4,96,Exact V-cusp,0.48
