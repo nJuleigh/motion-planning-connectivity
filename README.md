@@ -59,5 +59,5 @@ motion-planning-connectivity/
 │   ├── 01_connectivity_threshold_and_grid_astar.ipynb
 │   └── 02_geometry_perturbation_robustness.ipynb
 └── results/
-    ├── main/
-    └── perturbation/
+    ├── 01_connecticity/
+    └── 02_perturbation/
